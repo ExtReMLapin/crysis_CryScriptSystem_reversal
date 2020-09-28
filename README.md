@@ -16,15 +16,9 @@ lua_setallocf
 luaL_getn
 luaL_setn
 luaL_typerror
-luaL_checknumber
-luaL_optnumber
 luaL_checkudata
-luaL_ref
-luaL_unref
 luaL_loadstring
-luaL_newstate
 luaL_gsub
-luaL_loadstring
 luaL_addstring
 luaL_addvalue
 ```
