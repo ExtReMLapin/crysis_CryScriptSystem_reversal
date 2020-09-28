@@ -5,7 +5,7 @@ missing functions :
 
 
 ```txt
-lua_newstate
+
 lua_close
 lua_isuserdata
 lua_equal
@@ -15,6 +15,3 @@ lua_cpcall
 lua_getallocf
 lua_setallocf
 ```
-
-
-newstate is obviously critical
