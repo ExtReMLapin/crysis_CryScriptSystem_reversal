@@ -20,5 +20,4 @@ luaL_checkudata
 luaL_loadstring
 luaL_gsub
 luaL_addstring
-luaL_addvalue
 ```
