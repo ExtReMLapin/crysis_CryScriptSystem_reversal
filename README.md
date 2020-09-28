@@ -5,7 +5,6 @@ missing functions :
 
 
 ```txt
-lua_close
 lua_isuserdata
 lua_equal
 lua_lessthan
