@@ -1,4 +1,4 @@
-# crysis x64 ryScriptSystem_reversal
+# crysis x64 CryScriptSystem_reversal
 reversing CryScriptSystem.dll to detour lua calls to luajit
 
 |Name                 |section|IDA reported Address|Static address|
